@@ -1,3 +1,5 @@
+<link href="https://api.fontshare.com/v2/css?f[]=work-sans@100&display=swap" rel="stylesheet" font-family="'Work Sans',sans-serif">
+
 <h1 align="center">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
  
 
@@ -23,7 +25,7 @@
 </p>
 
 
-<h3> ✨ Fun facts about me:</h3>
+<h3> ✨ About me:</h3>
 
 🌍 I am fluent in Romanian, English, Portuguese, Spanish, and French 
 
