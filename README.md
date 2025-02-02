@@ -2,9 +2,9 @@
 
 ### My name is Carla, thank you for visiting! 
 
-I'm a Full-Stack Software Engineer, Airline-Trained Pilot, and Corporate Hospitality Professional with a passion for building and creating impactful experiences. Whether crafting intuitive digital solutions, soaring above the clouds or delivering top-tier guest services, I am driven by precision, creativity, and a love for innovation. 
+I am a Full-Stack Software Engineer, with previous experience as an Airline-Trained Pilot, and a Corporate Hospitality background. I am driven by precision, creativity, and a love for innovation. 
 
-I have obsessive attention to detail, unequivocal love for making things that change the world or make a difference.
+I have obsessive attention to detail and unequivocal passion for making things that change the world.
 
 💻 Tech Stack:
 
