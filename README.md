@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
  
 
-<h3 align="center">I am a Full-Stack Software Engineer, with previous experience as an Airline-Trained Pilot, and a Corporate Hospitality background. 
+<h3 align="center">I am a Full-Stack Software Engineer, once navigated the skies as an Airline-Trained Pilot. 
  <br>
  I am driven by precision, creativity, and a love for innovation.</h3>
 
@@ -24,12 +24,6 @@ Trained as an airliner pilot 🛫
 
 Extensive experience in corporate hospitality, ensuring top-tier customer experience delivery
 
-Passionate software engineer with an eye for detail and a drive to build solutions that make a difference
-
-Lifelong learner, always exploring new technologies and refining my skills
-
-Deeply fascinated by psychology and human behavior 🧠
-
 Multilingual: Fluent in Romanian, English, Portuguese, Spanish, and French 🌍
 
 <h6>☀️ What I Love:</h6>
@@ -39,6 +33,8 @@ Multilingual: Fluent in Romanian, English, Portuguese, Spanish, and French 🌍
 Nature walks, exercising in the outdoors 🌴🔥
 
 Problem-solving and crafting efficient, scalable code
+
+Deeply fascinated by psychology and human behavior 🧠
 
 Delivering exceptional experiences across various industries
 
