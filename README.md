@@ -7,9 +7,9 @@
 
 <br>
 
-<h2 align="center"> 
+<h3 align="center"> 
   💻 Tech Stack: 
-</h2>
+</h3>
 
 
 
