@@ -51,6 +51,7 @@ Deeply fascinated by psychology and human behavior 🧠
 
 Looking forward to collaborating and building something amazing! 🚀
 
-<p align="center" src="https://github.com/CarlaKeresztesi/github-readme-stats"/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
+
 
 
