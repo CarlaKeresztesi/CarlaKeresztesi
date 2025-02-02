@@ -23,6 +23,9 @@
 </p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
+
+
 <h3> ✨ About me:</h3>
 
 🌍 I am fluent in Romanian, English, Portuguese, Spanish, and French 
@@ -51,7 +54,6 @@ Deeply fascinated by psychology and human behavior 🧠
 
 Looking forward to collaborating and building something amazing! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
 
 
 
