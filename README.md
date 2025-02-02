@@ -57,5 +57,6 @@ LinkedIn: www.linkedin.com/in/carlakeresztesi
 
 Looking forward to collaborating and building something amazing! 🚀
 
-[https://github-readme-stats.vercel.app/api?username=CarlaKeresztesi]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
+
 
