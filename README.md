@@ -1,12 +1,11 @@
-## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<h1 align="center">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+ 
 
-### My name is Carla, thank you for visiting my GitHub page! 
+<h3 align="center">I am a Full-Stack Software Engineer, with previous experience as an Airline-Trained Pilot, and a Corporate Hospitality background. I am driven by precision, creativity, and a love for innovation.</h3>
 
-I am a Full-Stack Software Engineer, with previous experience as an Airline-Trained Pilot, and a Corporate Hospitality background. I am driven by precision, creativity, and a love for innovation. 
+<br>
 
-I have obsessive attention to detail and unequivocal passion for making things that change the world.
-
-💻 Tech Stack:
+<h6>💻 Tech Stack:</h6>
 
 Languages: HTML, CSS, SASS, JavaScript, TypeScript, Java
 
@@ -14,7 +13,7 @@ Frameworks & Tools: Node.js, Visual Studio Code, Jest, Cypress, IntelliJ IDEA, B
 
 Other Skills: CI/CD, TDD
 
-✈️ My Background:
+<h6>✈️ My Background:</h6>
 
 Trained as an airliner pilot 🛫
 
@@ -28,7 +27,7 @@ Deeply fascinated by psychology and human behavior 🧠
 
 Multilingual: Fluent in Romanian, English, Portuguese, Spanish, and French 🌍
 
-☀️ What I Love:
+<h6>☀️ What I Love:</h6>
 
 Nature walks, exercising in the outdoors 🌴🔥
 
@@ -42,11 +41,11 @@ Exploring psychology and understanding human behavior
 
 Immersing myself in different cultures and their history
 
-🚀 Currently Exploring:
+<h6>🚀 Currently Exploring:</h6>
 
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning Java
 
-📫 Let's Connect!
+<h6>📫 Let's Connect!</h6>
 
 Portfolio: [https://carlakeresztesi.github.io/web-project/]
 
