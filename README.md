@@ -34,7 +34,7 @@ Nature walks, exercising in the outdoors 🌴🔥
 
 Problem-solving and crafting efficient, scalable code
 
-Learning and sharing knowledge
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Learning and sharing knowledge - Ask me about anything, I am happy to help; 
 
 Delivering exceptional experiences across various industries
 
@@ -44,7 +44,7 @@ Immersing myself in different cultures and their history
 
 🚀 Currently Exploring:
 
-Learning Java
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning Java
 
 📫 Let's Connect!
 
@@ -52,10 +52,10 @@ Portfolio: [https://carlakeresztesi.github.io/web-project/]
 
 LinkedIn: www.linkedin.com/in/carlakeresztesi
 
-Email: carlakeresztesi@gmail.com
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Email: carlakeresztesi@gmail.com
 
 
 Looking forward to collaborating and building something amazing! 🚀
 
-
+[https://github-readme-stats.vercel.app/api?username=CarlaKeresztesi]
 
