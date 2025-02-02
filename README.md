@@ -2,12 +2,16 @@
  
 
 <h3 align="center">I am a Full-Stack Software Engineer, once navigated the skies as an Airline-Trained Pilot. 
+
  
  <br>
  
+ 
  I am driven by precision, creativity, and a love for innovation.</h3>
 
+
 <br>
+
 
 <h3 align="center">  💻 Tech Stack: </h3>
 
@@ -37,9 +41,9 @@ Deeply fascinated by psychology and human behavior 🧠
 
 <h3>📫 Let's Connect!</h3>
 
-<img src="https://github.com/user-attachments/assets/3cd29f67-80e4-4863-93ea-c80ecea7afde" width="15" height="15" alt="portfolio">Portfolio: (https://carlakeresztesi.github.io/web-project/)
+<img src="https://github.com/user-attachments/assets/3cd29f67-80e4-4863-93ea-c80ecea7afde" width="15" height="15" alt="portfolio"> Portfolio: (https://carlakeresztesi.github.io/web-project/)
 
-<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">LinkedIn: www.linkedin.com/in/carlakeresztesi
+<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin"> LinkedIn: www.linkedin.com/in/carlakeresztesi
 
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Email: carlakeresztesi@gmail.com
 
