@@ -7,13 +7,16 @@
 
 <br>
 
-<h6>💻 Tech Stack:</h6>
+<h2 align="center"> 
+  💻 Tech Stack: 
+</h2>
 
-Languages: HTML, CSS, SASS, JavaScript, TypeScript, Java
 
-Frameworks & Tools: Node.js, Visual Studio Code, Jest, Cypress, IntelliJ IDEA, Bash 
 
-Other Skills: CI/CD, TDD
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,html,css,sass,js,ts,java,postman,vite," />
+</p>
 
 <h6>✈️ My Background:</h6>
 
@@ -31,15 +34,13 @@ Multilingual: Fluent in Romanian, English, Portuguese, Spanish, and French 🌍
 
 <h6>☀️ What I Love:</h6>
 
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Learning and sharing knowledge - Ask me about anything, I am happy to help; 
+
 Nature walks, exercising in the outdoors 🌴🔥
 
 Problem-solving and crafting efficient, scalable code
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Learning and sharing knowledge - Ask me about anything, I am happy to help; 
-
 Delivering exceptional experiences across various industries
-
-Exploring psychology and understanding human behavior
 
 Immersing myself in different cultures and their history
 
@@ -58,6 +59,6 @@ Portfolio: [https://carlakeresztesi.github.io/web-project/]
 
 Looking forward to collaborating and building something amazing! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)"/></p>
 
 
