@@ -9,9 +9,7 @@
 
 <br>
 
-<h3 align="center"> 
-  💻 Tech Stack: 
-</h3>
+<h3 align="center">  💻 Tech Stack: </h3>
 
 
 
@@ -21,7 +19,7 @@
 </p>
 
 
-<h3 align="center">Fun facts about me:</h3>
+<h3> ✨ Fun facts about me:</h3>
 
 🌍 I am fluent in Romanian, English, Portuguese, Spanish, and French 
 
@@ -32,12 +30,12 @@ Deeply fascinated by psychology and human behavior 🧠
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; I love learning and sharing knowledge
 
 
-<h3 align="center">🚀 Currently Exploring:</h3>
+<h3>🚀 Currently Exploring:</h3>
 
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning Java
 
 
-<h3 align="center">📫 Let's Connect!</h3>
+<h3>📫 Let's Connect!</h3>
 
 <img src="https://github.com/user-attachments/assets/3cd29f67-80e4-4863-93ea-c80ecea7afde" width="15" height="15" alt="portfolio">Portfolio: (https://carlakeresztesi.github.io/web-project/)
 
