@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,html,css,sass,js,ts,java,postman,vite," />
+    <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,html,css,sass,js,ts,vite,cypress,postman,java" />
 </p>
 
 <h6>✈️ My Background:</h6>
