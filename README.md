@@ -50,7 +50,7 @@ Immersing myself in different cultures and their history
 
 <h6>📫 Let's Connect!</h6>
 
-<img src="![image](https://github.com/user-attachments/assets/3cd29f67-80e4-4863-93ea-c80ecea7afde) width="15" height="15" alt="portfolio">Portfolio: (https://carlakeresztesi.github.io/web-project/)
+<img src="https://github.com/user-attachments/assets/3cd29f67-80e4-4863-93ea-c80ecea7afde" width="15" height="15" alt="portfolio">Portfolio: (https://carlakeresztesi.github.io/web-project/)
 
 <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">LinkedIn: www.linkedin.com/in/carlakeresztesi
 
