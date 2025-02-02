@@ -1,5 +1,5 @@
 
-<h1 align="center" font-family="'Work Sans',sans-serif">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h1 align="center">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
  
 
 <h3 align="center">I am a Full-Stack Software Engineer, once navigated the skies as an Airline-Trained Pilot. 
@@ -51,7 +51,7 @@ Deeply fascinated by psychology and human behavior 🧠
 
 Looking forward to collaborating and building something amazing! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)</p>
 
 
 
