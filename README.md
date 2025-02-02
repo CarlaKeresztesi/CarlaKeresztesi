@@ -50,7 +50,7 @@ Immersing myself in different cultures and their history
 
 <h6>📫 Let's Connect!</h6>
 
-Portfolio: [https://carlakeresztesi.github.io/web-project/] (https://carlakeresztesi.github.io/web-project/)
+Portfolio: (https://carlakeresztesi.github.io/web-project/)
 
 <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">LinkedIn: www.linkedin.com/in/carlakeresztesi
 
@@ -59,6 +59,6 @@ Portfolio: [https://carlakeresztesi.github.io/web-project/] (https://carlakeresz
 
 Looking forward to collaborating and building something amazing! 🚀
 
-<p align="center" [(https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)/></p>
+<p align="center" src="https://github.com/CarlaKeresztesi/github-readme-stats"/></p>
 
 
