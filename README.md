@@ -49,7 +49,7 @@ Immersing myself in different cultures and their history
 
 Portfolio: [https://carlakeresztesi.github.io/web-project/]
 
-LinkedIn: www.linkedin.com/in/carlakeresztesi
+<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">LinkedIn: www.linkedin.com/in/carlakeresztesi
 
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Email: carlakeresztesi@gmail.com
 
