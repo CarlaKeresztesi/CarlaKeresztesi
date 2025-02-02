@@ -1,6 +1,6 @@
-## Hello and Welcome to my GitHub page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-### My name is Carla, thank you for visiting! 
+### My name is Carla, thank you for visiting my GitHub page! 
 
 I am a Full-Stack Software Engineer, with previous experience as an Airline-Trained Pilot, and a Corporate Hospitality background. I am driven by precision, creativity, and a love for innovation. 
 
