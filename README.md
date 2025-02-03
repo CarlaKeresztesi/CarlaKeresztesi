@@ -28,13 +28,13 @@
 
 <h3> ✨ About me:</h3>
 
-🌍 I am fluent in Romanian, English, Portuguese, Spanish, and French 
+🌍 Fluent in Romanian, English, Portuguese, Spanish, and French 
 
 🧠 Deeply fascinated by psychology and human behavior 
 
-☀️ Nature walks, exercising in the outdoors🌴
+☀️ Enjoy nature walks, exercising in the outdoors🌴
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; I love learning and sharing knowledge
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Love learning and sharing knowledge
 
 
 <h3>🚀 Currently Exploring:</h3>
