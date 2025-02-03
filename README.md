@@ -39,9 +39,8 @@
 
 <h3>🚀 Currently Exploring:</h3>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning Java <p><a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java"/>
-</p>
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning Java <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"/>
+
 
 
 <h3>📫 Let's Connect!</h3>
