@@ -30,7 +30,7 @@
 
 🌍 I am fluent in Romanian, English, Portuguese, Spanish, and French 
 
-Deeply fascinated by psychology and human behavior 🧠
+🧠 Deeply fascinated by psychology and human behavior 
 
 ☀️ Nature walks, exercising in the outdoors🌴
 
