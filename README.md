@@ -22,7 +22,7 @@
    <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,html,css,sass,js,ts,vite,cypress,postman" />
 </p>
 
-[![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
 
 
