@@ -4,15 +4,6 @@
 <h1 align="center">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
  
 
-<h3 align="center">I am a Full-Stack Software Engineer, once navigated the skies as an Airline-Trained Pilot. 
-
- 
- <br>
- 
- 
- I am driven by precision, creativity, and a love for innovation.</h3>
-
-
 <br>
 
 
