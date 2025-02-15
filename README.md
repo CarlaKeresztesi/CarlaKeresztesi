@@ -1,5 +1,5 @@
 
-<p><img align="center" src=C:\Users\carla\OneDrive\Desktop\_nology\GitHub banner.png alt="GitHub banner"/></p>
+![Alt text](C:\Users\carla\OneDrive\Desktop\_nology\GitHub banner.png alt="GitHub banner)
 
 <h1 align="center">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
  
