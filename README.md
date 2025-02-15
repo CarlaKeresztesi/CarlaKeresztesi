@@ -1,12 +1,6 @@
 
 ![GitHub banner](https://github.com/user-attachments/assets/b80b9a92-b1d5-42fc-9f6d-c45004a29ead)
 
-<h1 align="center">Hello, I am Carla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
- 
-
-<br>
-
-
 <h3>  💻 Tech Stack: </h3>
 
 
