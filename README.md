@@ -14,7 +14,7 @@
 
 
 <h3> ✨ About me:</h3>
----
+
 🌍 Fluent in Romanian, English, Portuguese, Spanish, and French 
 
 🧠 Deeply fascinated by psychology and human behavior 
@@ -25,13 +25,13 @@
 
 
 <h3>🚀 Currently Exploring:</h3>
----
+
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning Java <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"/>
 
 
 
 <h3>📫 Let's Connect!</h3>
----
+
 <img src="https://github.com/user-attachments/assets/3cd29f67-80e4-4863-93ea-c80ecea7afde" width="15" height="15" alt="portfolio"> Portfolio: (https://carlakeresztesi.github.io/web-project/)
 
 <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin"> LinkedIn: www.linkedin.com/in/carlakeresztesi
