@@ -6,7 +6,7 @@
 
 
 <p><a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,html,css,sass,js,ts,vite,vitest,cypress,postman,java,jUnit,jest,mysql" />
+   <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,html,css,sass,js,ts,vite,vitest,cypress,postman,java,jUnit,mysql" />
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 
-<h3> ✨ About me:</h3>
+<p><h3> ✨ About me:</h3>
 
 🌍 Fluent in Romanian, English, Portuguese, Spanish, and French 
 
@@ -43,7 +43,7 @@
 
 
 
-***Looking forward to collaborating and building something amazing!*** 🚀
+***Looking forward to collaborating and building something amazing!*** 🚀</p>
 
 
 
