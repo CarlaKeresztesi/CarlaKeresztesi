@@ -6,7 +6,7 @@
 
 
 <p><a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,html,css,sass,js,ts,vite,vitest,cypress,postman,java,jUnit,mysql" />
+   <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,html,css,sass" /> <br> <img src="https://skillicons.dev/icons?i=js,ts,vite,vitest,cypress,postman,java,jUnit,mysql" />
 </p>
 
 
