@@ -1,6 +1,7 @@
 
 
-![image](https://github.com/user-attachments/assets/3ef83193-86a7-4276-a6d4-bf5a2488c970)
+![GH](https://github.com/user-attachments/assets/26c58942-5f70-496e-a7cb-b6573e067abf)
+
 
 
 <h3>  💻 Tech Stack: </h3>
