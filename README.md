@@ -1,5 +1,7 @@
 
-![GitHub banner](https://github.com/user-attachments/assets/b80b9a92-b1d5-42fc-9f6d-c45004a29ead)
+
+![image](https://github.com/user-attachments/assets/3ef83193-86a7-4276-a6d4-bf5a2488c970)
+
 
 <h3>  💻 Tech Stack: </h3>
 
