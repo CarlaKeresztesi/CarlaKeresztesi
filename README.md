@@ -1,6 +1,7 @@
 
 
-![GH](https://github.com/user-attachments/assets/a758c8d6-ead5-4c92-863e-656900a6ac45)
+![Zoom backgr](https://github.com/user-attachments/assets/eb438f7a-e99e-46ac-aaea-79853e8bf6bb)
+
 
 
 
