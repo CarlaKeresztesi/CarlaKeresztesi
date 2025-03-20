@@ -33,7 +33,7 @@
 
 <h3> 🚀 Currently Exploring:</h3>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning Java and SQL <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,mysql"/> <br>  
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Actively reviewing and refining my skills in the above technologies by optimizing code, and deepening my understanding of best practices <br>  
 
 
 
