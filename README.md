@@ -25,7 +25,7 @@
 
 🧠 Deeply fascinated by psychology and human behavior 
 
-☀️ Enjoy nature walks, exercising in the outdoors🌴
+☀️ I enjoy nature walks, exercising in the outdoors🌴
 
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Love learning and sharing knowledge  <br>  
 
