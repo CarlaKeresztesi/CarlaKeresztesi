@@ -38,11 +38,7 @@
  - 🌐 C# and .NET 
  - 💻 Windows Presentation Foundation (WPF)
  - 🔧 Visual Studio <br>
- - 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-0078D7?style=flat&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 
 
