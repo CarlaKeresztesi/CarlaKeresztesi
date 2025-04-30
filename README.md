@@ -34,9 +34,9 @@
 <h3> 🚀 Currently Exploring:</h3>
 
 [<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning ]:#
-  🌐 C# and .NET 
-  💻 Windows Presentation Foundation (WPF)
-  🔧 Visual Studio <br>  
+ - 🌐 C# and .NET 
+ - 💻 Windows Presentation Foundation (WPF)
+ - 🔧 Visual Studio <br>  
 
 
 
