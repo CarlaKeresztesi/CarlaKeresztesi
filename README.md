@@ -15,8 +15,8 @@
 </p>
 
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats) ]:# 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaKeresztesi)](https://github.com/CarlaKeresztesi/github-readme-stats) 
+
 
 
 
@@ -37,7 +37,12 @@
 [<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning ]:#
  - 🌐 C# and .NET 
  - 💻 Windows Presentation Foundation (WPF)
- - 🔧 Visual Studio <br>  
+ - 🔧 Visual Studio <br>
+ - 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-0078D7?style=flat&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 
