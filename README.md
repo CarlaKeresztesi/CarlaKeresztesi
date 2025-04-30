@@ -33,7 +33,10 @@
 
 <h3> 🚀 Currently Exploring:</h3>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Actively reviewing and refining my skills in the above technologies. <br>  
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning 
+- 🌐 C# and .NET 
+- 💻 Windows Presentation Foundation (WPF)
+- 🔧 Visual Studio <br>  
 
 
 
