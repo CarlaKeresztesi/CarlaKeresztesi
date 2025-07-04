@@ -35,7 +35,7 @@
 <h3> 🚀 Currently Exploring:</h3>
 
 [<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning ]:#
- - 🌐 Scala
+🌐 Scala
 
 
 
