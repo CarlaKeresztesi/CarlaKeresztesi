@@ -35,7 +35,7 @@
 <h3> 🚀 Currently Exploring:</h3>
 
 [<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning ]:#
-🌐 Python [![My Skills](https://skillicons.dev/icons?i=pycharm,py&theme=light)](https://skillicons.dev)
+🌐 Python [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) and PyCharm [![My Skills](https://skillicons.dev/icons?i=pycharm&theme=light)](https://skillicons.dev)
 
 
 
