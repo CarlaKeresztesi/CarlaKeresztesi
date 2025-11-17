@@ -11,7 +11,7 @@
 
 
 <p><a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,html,css,sass,pycharm" /> <br> <img src="https://skillicons.dev/icons?i=js,ts,vite,vitest,cypress,postman,java,mysql,spring,python" />
+   <img src="https://skillicons.dev/icons?i=pycharm,git,github,bash,npm,vscode,html,css,sass" /> <br> <img src="https://skillicons.dev/icons?i=python,java,js,ts,vite,vitest,cypress,postman,mysql,spring" />
 </p>
 
 
