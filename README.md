@@ -11,7 +11,7 @@
 
 
 <p><a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,html,css,sass" /> <br> <img src="https://skillicons.dev/icons?i=js,ts,vite,vitest,cypress,postman,java,mysql,spring" />
+   <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,html,css,sass,pycharm" /> <br> <img src="https://skillicons.dev/icons?i=js,ts,vite,vitest,cypress,postman,java,mysql,spring,python" />
 </p>
 
 
@@ -35,7 +35,8 @@
 <h3> 🚀 Currently Exploring:</h3>
 
 [<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning ]:#
-🌐 Python [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) & PyCharm [![My Skills](https://skillicons.dev/icons?i=pycharm&theme=light)](https://skillicons.dev)
+🌐 DevOps
+
 
 
 
