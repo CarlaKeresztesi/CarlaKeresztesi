@@ -20,7 +20,7 @@
 
 
 
-<p><h3> ✨ About me:</h3>
+<p><h2> ✨ About me:</h2>
 
 🌍 Fluent in Romanian, English, Portuguese, Spanish, and French 
 
@@ -32,7 +32,7 @@
 
 
 
-<h3> 🚀 Currently Exploring:</h3>
+<h2> 🚀 Currently Exploring:</h2>
 
 [<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning ]:#
 🌐 DevOps
@@ -41,7 +41,7 @@
 
 
 
-<h3> 📫 Let's Connect!</h3>
+<h2> 📫 Let's Connect!</h2>
 
 <img src="https://github.com/user-attachments/assets/3cd29f67-80e4-4863-93ea-c80ecea7afde" width="15" height="15" alt="portfolio"> Portfolio: (https://carlakeresztesi.github.io/web-project/)
 
