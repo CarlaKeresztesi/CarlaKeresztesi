@@ -52,7 +52,7 @@
 
 
 
-<h2> ***Looking forward to collaborating and building something amazing!*** 🚀</h2> 
+<h2> Looking forward to collaborating and building something amazing! 🚀</h2> 
 
 
 
