@@ -38,6 +38,7 @@
 
 [<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Learning ]:#
 🌐 DevOps
+
 <img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/cf84b2bc-ea62-4b23-9e8d-7c2ce699223a" /> GCP
 
 
